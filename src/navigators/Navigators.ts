@@ -1,0 +1,1 @@
+export { CatsStackNavigator } from "./catNavigator/CatNavigator";
